@@ -1,0 +1,12 @@
+.html,
+body {
+  background: #444444;
+  color: #ffffff;
+  margin: 0;
+  padding-top: 10vh;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
